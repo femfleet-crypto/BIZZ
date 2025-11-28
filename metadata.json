@@ -1,0 +1,5 @@
+{
+  "name": "Deploy BizNomics",
+  "description": "An intelligent study assistant for 1st and 2nd PUC Economics and Business Studies students. It offers chapter-wise explanations, visualizations, quizzes, and an AI chat helper to make learning interactive and effective.",
+  "requestFramePermissions": []
+}
